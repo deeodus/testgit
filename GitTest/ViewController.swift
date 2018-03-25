@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         print("this is the master version i am this line should cause conflict")
 
         print("this is the upgrade version, i will change this line in the upgrade branch")
+        
+        print("push changes to origin master")
 
     }
 
