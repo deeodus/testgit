@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("this is the upgrade version i am working on it")
+        print("this is the upgrade version, i will change this line in the upgrade branch")
     }
 
     override func didReceiveMemoryWarning() {
